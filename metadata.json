@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Player",
+  "description": "A high-performance local music player optimized for Android.",
+  "requestFramePermissions": []
+}
